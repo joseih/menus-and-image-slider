@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: aliceblue;
+}
+ul {
+  width: fit-content;
+  background-color: gainsboro;
+}
+.dropdown li {
+  display: none;
+  list-style: none;
+}
+
+.dropdown li,
+.logo {
+  width: fit-content;
+  color: white;
+}
+.logo {
+  padding: 0;
+  margin: 0;
+}
